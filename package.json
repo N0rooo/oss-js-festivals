@@ -1,0 +1,27 @@
+{
+  "name": "oss-js-td5",
+  "version": "1.0.0",
+  "description": "Get government festival",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/N0rooo/oss-ts-festivals.git"
+  },
+  "author": "n0rooo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N0rooo/oss-ts-festivals/issues"
+  },
+  "homepage": "https://github.com/N0rooo/oss-ts-festivals#readme",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
